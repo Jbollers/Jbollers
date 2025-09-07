@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- [Ticketing System in Python]([https://github.com/Jbollers/](https://github.com/Jbollers/helpdesk-ticketing-system-simulation/tree/main))
+- [Ticketing System in Python](https://github.com/Jbollers/](https://github.com/Jbollers/helpdesk-ticketing-system-simulation/tree/main)
 
 <h2> 📃 Certifications:</h2>
 
